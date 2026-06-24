@@ -33,3 +33,14 @@ GET https://restful-booker.herokuapp.com/booking
 ## Tools
 - Apache JMeter
 - REST API Testing
+
+## Screenshots
+
+### Test Plan
+![Test Plan](screenshots/test-plan.png)
+
+### Summary Report
+![Summary Report](screenshots/summary-report.png)
+
+### View Results Tree
+![View Results Tree](screenshots/view-result-tree.png)
